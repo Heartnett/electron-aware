@@ -22,7 +22,7 @@
     "buble": "^0.15.2",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
-    "electron": "1.6.7",
+    "electron": "1.6.9",
     "gulp": "^3.9.1",
     "gulp-buble": "^0.8.0",
     "gulp-standard": "^10.0.0",
