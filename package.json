@@ -13,7 +13,7 @@
     "real-time"
   ],
   "dependencies": {
-    "chalk": "^2.0.0",
+    "chalk": "^1.1.3",
     "should": "^11.2.1",
     "socket.io": "^2.0.1",
     "socket.io-client": "^2.0.1"
